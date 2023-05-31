@@ -47,3 +47,5 @@ function findRemove() {
 
 findFirst();
 ````
+
+**Nota**: si después de un tiempo, YouTube reporta algo como "Esta funcionalidad no está disponible" y no borra los vídeos con este script, cambia el tiempo de espera de 300ms a 2000ms (me pasó esto con los últimos 47 vídeos).
